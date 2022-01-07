@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/battleshipv2/static/css/main.2f457fdb.css",
+    "main.js": "/battleshipv2/static/js/main.9433c6d7.js",
+    "static/js/787.cfd8f164.chunk.js": "/battleshipv2/static/js/787.cfd8f164.chunk.js",
+    "static/media/logo.svg": "/battleshipv2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/battleshipv2/index.html",
+    "main.2f457fdb.css.map": "/battleshipv2/static/css/main.2f457fdb.css.map",
+    "main.9433c6d7.js.map": "/battleshipv2/static/js/main.9433c6d7.js.map",
+    "787.cfd8f164.chunk.js.map": "/battleshipv2/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f457fdb.css",
+    "static/js/main.9433c6d7.js"
+  ]
+}
